@@ -1,6 +1,6 @@
 # Task CLI Tool
 
-Jednoduchý Python projekt pro správu úkolů v příkazové řádce.
+Python projekt pro správu úkolů v příkazové řádce.
 
 ## Funkce
 - Přidání úkolu (název, popis, priorita)
