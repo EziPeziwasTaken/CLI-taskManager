@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Nakoupit",
+    "description": "Mléko a pečivo",
+    "priority": "high",
+    "done": false
+  },
+  {
+    "id": 2,
+    "title": "Naprogramovat",
+    "description": "Další projekt",
+    "priority": "medium",
+    "done": false
+  }
+]
